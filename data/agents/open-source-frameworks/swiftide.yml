@@ -5,8 +5,8 @@ description: Rust framework for fast streaming indexing, querying, RAG, and agen
   pipelines and agent workflows.
 github_repo: bosun-ai/swiftide
 documentation_url: https://swiftide.rs
-github_stars: 719
-last_updated: '2026-07-09'
+github_stars: 756
+last_updated: '2026-07-31'
 is_archived: false
 category: open-source-frameworks
 tags:

@@ -17,8 +17,8 @@ tags:
   - postgresql
   - docker
 github_repo: boxyhq/saas-starter-kit
-github_stars: 4866
-last_updated: '2026-06-22'
+github_stars: 4885
+last_updated: '2026-07-20'
 is_archived: false
 license: Apache 2.0
 technical_stack:

@@ -12,9 +12,9 @@ tags:
   - docker
   - architecture
 github_repo: Kludex/fastapi-microservices
-github_stars: 549
+github_stars: 550
 last_updated: '2023-05-24'
-is_archived: false
+is_archived: true
 license: MIT
 pricing: free
 added_date: '2026-05-04'
