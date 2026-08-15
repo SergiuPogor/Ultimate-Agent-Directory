@@ -4,8 +4,8 @@ description: Open-source observability framework for monitoring and debugging AI
   systems. Features execution tracing, state inspection, and visual debugging tools
   for understanding agent behaviors and optimizing performance in multi-agent environments.
 github_repo: agentsight/agentsight
-github_stars: 551
-last_updated: '2026-07-30'
+github_stars: 587
+last_updated: '2026-08-14'
 is_archived: false
 category: specialized-tools
 added_date: '2025-11-05'

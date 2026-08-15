@@ -5,7 +5,7 @@ description: Python scraping framework that uses LLMs and graph-based pipelines 
   extraction prompts and integrations with common AI workflow tools.
 github_repo: ScrapeGraphAI/Scrapegraph-ai
 documentation_url: https://scrapegraphai.com
-github_stars: 28847
+github_stars: 29544
 last_updated: '2026-07-20'
 is_archived: false
 category: browser-automation

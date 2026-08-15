@@ -5,8 +5,8 @@ description: Browserbase SDK for building browser agents on top of Playwright. S
   deterministic browser automation with natural-language instructions.
 github_repo: browserbase/stagehand
 documentation_url: https://stagehand.dev
-github_stars: 23694
-last_updated: '2026-08-01'
+github_stars: 23941
+last_updated: '2026-08-14'
 is_archived: false
 category: browser-automation
 tags:
