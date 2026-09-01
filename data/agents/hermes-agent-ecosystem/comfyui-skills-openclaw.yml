@@ -5,8 +5,8 @@ description: Agent-friendly ComfyUI workflow skills for OpenClaw, Hermes Agent,
   can trigger image-generation and Stable Diffusion pipelines from natural-language
   workflows.
 github_repo: HuangYuChuh/ComfyUI_Skills_OpenClaw
-last_updated: '2026-04-21'
-github_stars: 390
+last_updated: '2026-08-26'
+github_stars: 396
 is_archived: false
 category: hermes-agent-ecosystem
 added_date: '2026-05-04'
